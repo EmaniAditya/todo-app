@@ -2,13 +2,17 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Todo App</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <input type="text" placeholder="title">
-    <input type="text" placeholder="description">
-    <button>Add Todo</button>
+    <div class="container">
+        <h1>Todo App</h1>
+        <input type="text" id="inputBox" placeholder="Add new Todo">
+        <button id="addBtn">Add</button>
+        <ul id="todoList"></ul>
+    </div>
+    <script src="script.js"></script>
 </body>
 </html>
