@@ -1,7 +1,3 @@
-# todo app
- - Features: Add, delete, mark as done, filter tasks.
- - Technologies: HTML, CSS, JavaScript 
-
 # Todo App
 
 A To-Do list App. 
