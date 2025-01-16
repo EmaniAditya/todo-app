@@ -1,6 +1,6 @@
 # Todo App
 
-A To-Do list App. 
+A simple in-memory To-Do list App. 
 
 ## Features
 
