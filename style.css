@@ -23,7 +23,7 @@ body {
     max-width: 400px;
     box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
     text-align: center;
-    margin-bottom: 20px; /* Space between container and footer */
+    margin-bottom: 20px;
 }
 
 h1 {
